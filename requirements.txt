@@ -6,7 +6,7 @@ beautifulsoup4==4.9.1
 btrfsutil==1.2.0
 CacheControl==0.12.6
 caffeine-ng==3.4.2
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.1
 chardet==3.0.4
 chrome-gnome-shell==0.0.0
